@@ -51,7 +51,7 @@ Projet réalisé dans le cadre d'un cours d'Ingénierie des Systèmes afin de me
 Cloner le dépôt :
 
 ```bash
-git clone https://github.com/VOTRE-UTILISATEUR/MyHealthyApp.git
+git clone https://github.com/githubName/MyHealthyApp.git
 ```
 
 ## Auteur
